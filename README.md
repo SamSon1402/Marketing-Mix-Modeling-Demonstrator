@@ -3,6 +3,8 @@
 A tool that helps understand how different marketing activities affect sales.
 
 ![Image](https://github.com/user-attachments/assets/4de4c4bf-a764-4d53-8fa6-7da453f7a536)
+![Image](https://github.com/user-attachments/assets/4586fe86-6faf-4c90-8703-05416f4c2531)
+![Image](https://github.com/user-attachments/assets/43a23056-821e-414a-8fed-186fec209f2c)
 
 ## What This Project Does
 
