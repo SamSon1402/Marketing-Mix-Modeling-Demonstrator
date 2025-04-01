@@ -2,7 +2,7 @@
 
 A tool that helps understand how different marketing activities affect sales.
 
-![Version](https://img.shields.io/badge/version-0.1.0-blue)
+![Image](https://github.com/user-attachments/assets/4de4c4bf-a764-4d53-8fa6-7da453f7a536)
 
 ## What This Project Does
 
